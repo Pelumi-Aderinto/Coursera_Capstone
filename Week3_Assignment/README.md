@@ -1,1 +1,1 @@
-This folder contains one .ipynb file containing all the three parts of the assignment required for week 3 of the applied data science capstone on Coursera.
+This folder contains one .ipynb file containing all the three parts of the assignment required for week 3 of the applied data science capstone on Coursera. It also contains two .csv files of the Toronto dataframe after it has been cleaned., wraggled and processed.
