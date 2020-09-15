@@ -1,0 +1,1 @@
+### This folder contains the problem statement, description of data and the methodology(how the said problem is to be solved) for the final project of applied data science capstone on coursera. It also contains the cleaned data of NewYork and Toronto to be used for this problem.
